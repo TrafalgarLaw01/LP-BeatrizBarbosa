@@ -1,0 +1,8 @@
+{
+  "name": "Beatriz Barbosa - Nail Designer Premium",
+  "description": "Landing page mobile-first de alto padrão para a expert em nail design Beatriz Barbosa, focada em conversão via WhatsApp.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
